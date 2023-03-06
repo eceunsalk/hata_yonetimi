@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/bin/Debug/net7.0/hata_yonetimi
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/bin/Debug/net7.0/hata_yonetimi.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/bin/Debug/net7.0/hata_yonetimi.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/hata_yonetimi.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/hata_yonetimi.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/hata_yonetimi.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/hata_yonetimi.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/hata_yonetimi.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/refint/hata_yonetimi.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/hata_yonetimi/obj/Debug/net7.0/hata_yonetimi.pdb
